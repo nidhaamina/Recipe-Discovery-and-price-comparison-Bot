@@ -1,4 +1,4 @@
-# 🛒 Recipe Ingredient Price Comparator
+# 🛒 Recipe Discovery & Price Comparison Bot
 
 ## Description  
 This project automates **ingredient extraction and price comparison for online grocery shopping**.  
